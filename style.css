@@ -7397,7 +7397,7 @@ h6 {
       position: relative; }
       .booking-fig h2:after {
         position: absolute;
-        background: url("images/logo.png");
+        background: url("images/Manchester_United_FC.png");
         content: '';
         width: 140px;
         top: -119px;
@@ -7594,7 +7594,7 @@ h6 {
       min-height: 1px;
       padding-left: 15px;
       padding-right: 15px;
-      background-image: url("images/result/resultlogo.png");
+      background-image: url("images/result/resultManchester_United_FC.png");
       background-size: contain;
       background-position: center;
       background-repeat: no-repeat;
@@ -7751,7 +7751,7 @@ h6 {
 
 @media screen and (min-width: 1200px) {
   .latestResult .result-details .figure {
-    background-image: url("images/result/resultlogo.png");
+    background-image: url("images/result/resultManchester_United_FC.png");
     background-size: inherit;
     background-position: center;
     background-repeat: no-repeat;
